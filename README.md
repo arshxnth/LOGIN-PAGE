@@ -8,17 +8,17 @@ A simple, responsive login page built with HTML and CSS. This project showcases 
 
 ## Features :
 
-- **Responsive Design**: Works well on both desktop and mobile devices.
-- **Interactive Input Fields**: Input fields highlight and enlarge slightly on focus for better user experience.
-- **"Remember Me" and "Forgot Password"**: Offers additional options for user interaction.
-- **Sign Up Link**: Redirects users to the registration page if they don't have an account.
-- **Clean, Minimalistic Style**: Styled with CSS for a modern and sleek look.
+- **Responsive Design** : Works well on both desktop and mobile devices.
+- **Interactive Input Fields** : Input fields highlight and enlarge slightly on focus for better user experience.
+- **"Remember Me" and "Forgot Password"** : Offers additional options for user interaction.
+- **Sign Up Link** : Redirects users to the registration page if they don't have an account.
+- **Clean, Minimalistic Style** : Styled with CSS for a modern and sleek look.
 
 ## Technologies Used :
 
-- **HTML5**: Provides the structure of the login page.
-- **CSS3**: Used for styling the page, including input field interactions and button effects.
-- **Google Fonts**: Uses the 'Poppins' font for a professional and clean appearance.
+- **HTML5** : Provides the structure of the login page.
+- **CSS3** : Used for styling the page, including input field interactions and button effects.
+- **Google Fonts** : Uses the 'Poppins' font for a professional and clean appearance.
 
 ## Screenshot :
 
